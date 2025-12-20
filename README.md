@@ -42,7 +42,3 @@ The raw resistance data is transformed through a pipeline to generate a drift-in
 * **Srikar Somanchi** (Mentor)
 
 *International Institute of Information Technology, Hyderabad (IIIT-H)*
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
